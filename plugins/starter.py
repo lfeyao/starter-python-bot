@@ -10,7 +10,7 @@ typing_sleep = 0
 greetings = ['Hi friend!', 'Hello there.', 'Howdy!', 'Wazzzup!!!', 'Hi!', 'Hey.']
 help_text = "{}\n{}\n{}\n{}\n{}\n{}".format(
     "I will respond to the following messages: ",
-    "`pybot hi` for a random greeting.",
+    "`pybot hello` for a random greeting.",
     "`pybot joke` for a question, typing indicator, then answer style joke.",
     "`pybot attachment` to see a Slack attachment message.",
     "`@<your bot's name>` to demonstrate detecting a mention.",
